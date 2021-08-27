@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.78862mm"
+   height="14.333305mm"
+   viewBox="0 0 41.273172 8.5999829"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="52.63526"
+     inkscape:cy="33.720154"
+     inkscape:window-width="2560"
+     inkscape:window-height="1286"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0.5"
+     fit-margin-left="0.8"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     scale-x="0.6" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path112684" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-39.706963,-89.699997)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="32.529854"
+       y="70.122711"
+       id="text8768"><tspan
+         sodipodi:role="line"
+         id="tspan8766"
+         style="stroke-width:0.264583"
+         x="32.529854"
+         y="70.122711" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Noto Sans Lao';-inkscape-font-specification:'Noto Sans Lao';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.619656"
+       y="92.402847"
+       id="text29336"><tspan
+         sodipodi:role="line"
+         id="tspan29334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Lao';-inkscape-font-specification:'Noto Sans Lao';stroke-width:0.264583"
+         x="53.619656"
+         y="92.402847" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5802px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264506"
+       x="49.933804"
+       y="97.878662"
+       id="text70240"
+       transform="scale(1.0002908,0.99970928)"><tspan
+         sodipodi:role="line"
+         id="tspan70238"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#4375df;fill-opacity:1;stroke-width:0.264506"
+         x="49.933804"
+         y="97.878662">TASK</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(-39.706963,-89.699997)">
+    <rect
+       style="opacity:0.328144;mix-blend-mode:normal;fill:#0037df;fill-opacity:1;stroke-width:0.195167"
+       id="rect108098"
+       width="6"
+       height="6"
+       x="41"
+       y="91"
+       ry="0.13093109"
+       rx="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.998196;stroke-width:0.176389"
+       id="rect108352"
+       width="4"
+       height="4"
+       x="42"
+       y="92"
+       ry="0.057032347" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     transform="translate(-39.706963,-89.699997)">
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.32123;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 40.654075,97.345923 6.692231,-6.691848 z"
+       id="path112602" />
+  </g>
+</svg>
